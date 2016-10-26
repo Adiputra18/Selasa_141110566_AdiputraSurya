@@ -1,0 +1,9 @@
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\Latihan3_1\bin\Debug\Latihan_3_1TextEditor.exe.config
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\Latihan3_1\obj\Debug\Latihan_3_1TextEditor.exe
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\Latihan3_1\obj\Debug\Latihan_3_1TextEditor.pdb
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\Latihan3_1\bin\Debug\Latihan_3_1TextEditor.exe
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\Latihan3_1\bin\Debug\Latihan_3_1TextEditor.pdb
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\Latihan3_1\obj\Debug\Latihan3_1.csprojResolveAssemblyReference.cache
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\Latihan3_1\obj\Debug\Latihan_3_1TextEditor.Form1.resources
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\Latihan3_1\obj\Debug\Latihan_3_1TextEditor.Properties.Resources.resources
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\Latihan3_1\obj\Debug\Latihan3_1.csproj.GenerateResource.Cache
