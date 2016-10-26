@@ -1,0 +1,9 @@
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\Latihan2_1\bin\Debug\Latihan_2_1MonthCalendar.exe.config
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\Latihan2_1\obj\Debug\Latihan_2_1MonthCalendar.exe
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\Latihan2_1\obj\Debug\Latihan_2_1MonthCalendar.pdb
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\Latihan2_1\obj\Debug\Latihan2_1.csprojResolveAssemblyReference.cache
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\Latihan2_1\obj\Debug\Latihan_2_1MonthCalendar.Properties.Resources.resources
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\Latihan2_1\obj\Debug\Latihan2_1.csproj.GenerateResource.Cache
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\Latihan2_1\bin\Debug\Latihan_2_1MonthCalendar.exe
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\Latihan2_1\bin\Debug\Latihan_2_1MonthCalendar.pdb
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\Latihan2_1\obj\Debug\Latihan_2_1MonthCalendar.Form1.resources
