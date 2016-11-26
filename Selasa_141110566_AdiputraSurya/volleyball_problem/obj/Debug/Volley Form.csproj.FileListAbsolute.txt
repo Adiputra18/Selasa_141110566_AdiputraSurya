@@ -1,0 +1,18 @@
+D:\PBO\Senin_141110311_Willy\Volleyball Match\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\PBO\Senin_141110311_Willy\Volleyball Match\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\PBO\Senin_141110311_Willy\Volleyball Match\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\PBO\Senin_141110311_Willy\Volleyball Match\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\PBO\Senin_141110311_Willy\Volleyball Match\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\PBO\Senin_141110311_Willy\Volleyball Match\WindowsFormsApplication1\obj\Debug\Volley Form.csprojResolveAssemblyReference.cache
+D:\PBO\Senin_141110311_Willy\Volleyball Match\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\PBO\Senin_141110311_Willy\Volleyball Match\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\PBO\Senin_141110311_Willy\Volleyball Match\WindowsFormsApplication1\obj\Debug\Volley Form.csproj.GenerateResource.Cache
+D:\PBO\Senin_141110311_Willy\Volley Ball Form\bin\Debug\WindowsFormsApplication1.exe.config
+D:\PBO\Senin_141110311_Willy\Volley Ball Form\obj\Debug\WindowsFormsApplication1.exe
+D:\PBO\Senin_141110311_Willy\Volley Ball Form\obj\Debug\WindowsFormsApplication1.pdb
+D:\PBO\Senin_141110311_Willy\Volley Ball Form\bin\Debug\WindowsFormsApplication1.exe
+D:\PBO\Senin_141110311_Willy\Volley Ball Form\bin\Debug\WindowsFormsApplication1.pdb
+D:\PBO\Senin_141110311_Willy\Volley Ball Form\obj\Debug\Volley Form.csprojResolveAssemblyReference.cache
+D:\PBO\Senin_141110311_Willy\Volley Ball Form\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\PBO\Senin_141110311_Willy\Volley Ball Form\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\PBO\Senin_141110311_Willy\Volley Ball Form\obj\Debug\Volley Form.csproj.GenerateResource.Cache

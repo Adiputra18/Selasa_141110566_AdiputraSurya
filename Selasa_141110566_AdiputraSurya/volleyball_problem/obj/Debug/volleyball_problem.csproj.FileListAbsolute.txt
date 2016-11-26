@@ -1,0 +1,30 @@
+D:\PBO\Senin_141110311_Willy\Volley Ball Form\bin\Debug\WindowsFormsApplication1.exe.config
+D:\PBO\Senin_141110311_Willy\Volley Ball Form\bin\Debug\WindowsFormsApplication1.exe
+D:\PBO\Senin_141110311_Willy\Volley Ball Form\bin\Debug\WindowsFormsApplication1.pdb
+D:\PBO\Senin_141110311_Willy\Volley Ball Form\obj\Debug\volleyball_problem.csprojResolveAssemblyReference.cache
+D:\PBO\Senin_141110311_Willy\Volley Ball Form\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\PBO\Senin_141110311_Willy\Volley Ball Form\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\PBO\Senin_141110311_Willy\Volley Ball Form\obj\Debug\volleyball_problem.csproj.GenerateResource.Cache
+D:\PBO\Senin_141110311_Willy\Volley Ball Form\obj\Debug\WindowsFormsApplication1.exe
+D:\PBO\Senin_141110311_Willy\Volley Ball Form\obj\Debug\WindowsFormsApplication1.pdb
+D:\PBO\Senin_141110311_Willy\volleyball_problem\bin\Debug\WindowsFormsApplication1.exe.config
+D:\PBO\Senin_141110311_Willy\volleyball_problem\obj\Debug\WindowsFormsApplication1.exe
+D:\PBO\Senin_141110311_Willy\volleyball_problem\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\AS\Downloads\Compressed\Senin_141110311_Willy-master\volleyball_problem\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\AS\Downloads\Compressed\Senin_141110311_Willy-master\volleyball_problem\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\AS\Downloads\Compressed\Senin_141110311_Willy-master\volleyball_problem\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\AS\Downloads\Compressed\Senin_141110311_Willy-master\volleyball_problem\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\AS\Downloads\Compressed\Senin_141110311_Willy-master\volleyball_problem\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\AS\Downloads\Compressed\Senin_141110311_Willy-master\volleyball_problem\obj\Debug\volleyball_problem.csprojResolveAssemblyReference.cache
+C:\Users\AS\Downloads\Compressed\Senin_141110311_Willy-master\volleyball_problem\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\AS\Downloads\Compressed\Senin_141110311_Willy-master\volleyball_problem\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\AS\Downloads\Compressed\Senin_141110311_Willy-master\volleyball_problem\obj\Debug\volleyball_problem.csproj.GenerateResource.Cache
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\volleyball_problem\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\volleyball_problem\obj\Debug\WindowsFormsApplication1.exe
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\volleyball_problem\obj\Debug\WindowsFormsApplication1.pdb
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\volleyball_problem\bin\Debug\WindowsFormsApplication1.exe
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\volleyball_problem\bin\Debug\WindowsFormsApplication1.pdb
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\volleyball_problem\obj\Debug\volleyball_problem.csprojResolveAssemblyReference.cache
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\volleyball_problem\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\volleyball_problem\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\volleyball_problem\obj\Debug\volleyball_problem.csproj.GenerateResource.Cache
