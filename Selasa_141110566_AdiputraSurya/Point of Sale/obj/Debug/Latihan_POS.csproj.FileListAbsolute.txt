@@ -1,0 +1,24 @@
+E:\Data\Kuliah\C# Lanjutan 2\clone\Senin_141110655_Willy-Laurents\Senin_141110655_WillyLaurents\Latihan_POS\bin\Debug\Latihan_POS.exe.config
+E:\Data\Kuliah\C# Lanjutan 2\clone\Senin_141110655_Willy-Laurents\Senin_141110655_WillyLaurents\Latihan_POS\bin\Debug\Latihan_POS.exe
+E:\Data\Kuliah\C# Lanjutan 2\clone\Senin_141110655_Willy-Laurents\Senin_141110655_WillyLaurents\Latihan_POS\bin\Debug\Latihan_POS.pdb
+E:\Data\Kuliah\C# Lanjutan 2\clone\Senin_141110655_Willy-Laurents\Senin_141110655_WillyLaurents\Latihan_POS\obj\Debug\Latihan_POS.csprojResolveAssemblyReference.cache
+E:\Data\Kuliah\C# Lanjutan 2\clone\Senin_141110655_Willy-Laurents\Senin_141110655_WillyLaurents\Latihan_POS\obj\Debug\Latihan_POS.Form1.resources
+E:\Data\Kuliah\C# Lanjutan 2\clone\Senin_141110655_Willy-Laurents\Senin_141110655_WillyLaurents\Latihan_POS\obj\Debug\Latihan_POS.Properties.Resources.resources
+E:\Data\Kuliah\C# Lanjutan 2\clone\Senin_141110655_Willy-Laurents\Senin_141110655_WillyLaurents\Latihan_POS\obj\Debug\Latihan_POS.csproj.GenerateResource.Cache
+E:\Data\Kuliah\C# Lanjutan 2\clone\Senin_141110655_Willy-Laurents\Senin_141110655_WillyLaurents\Latihan_POS\obj\Debug\Latihan_POS.exe
+E:\Data\Kuliah\C# Lanjutan 2\clone\Senin_141110655_Willy-Laurents\Senin_141110655_WillyLaurents\Latihan_POS\obj\Debug\Latihan_POS.pdb
+E:\Data\Kuliah\C# Lanjutan 2\clone\Senin_141110655_Willy-Laurents\Senin_141110655_WillyLaurents\Latihan_POS\obj\Debug\Latihan_POS.tambahBarang.resources
+E:\Data\Kuliah\C# Lanjutan 2\clone\Senin_141110655_Willy-Laurents\Senin_141110655_WillyLaurents\Latihan_POS\bin\Debug\MySql.Data.dll
+E:\Data\Kuliah\C# Lanjutan 2\clone\Senin_141110655_Willy-Laurents\Senin_141110655_WillyLaurents\Latihan_POS\obj\Debug\Latihan_POS.tambahCostumer.resources
+E:\Data\Kuliah\C# Lanjutan 2\clone\Senin_141110655_Willy-Laurents\Senin_141110655_WillyLaurents\Latihan_POS\obj\Debug\Latihan_POS.tambahSupplier.resources
+E:\Data\Kuliah\C# Lanjutan 2\clone\Senin_141110655_Willy-Laurents\Senin_141110655_WillyLaurents\Latihan_POS\obj\Debug\Latihan_POS.cariBarang.resources
+E:\Data\Kuliah\C# Lanjutan 2\clone\Senin_141110655_Willy-Laurents\Senin_141110655_WillyLaurents\Latihan_POS\obj\Debug\Latihan_POS.editBarang.resources
+E:\Data\Kuliah\C# Lanjutan 2\clone\Senin_141110655_Willy-Laurents\Senin_141110655_WillyLaurents\Latihan_POS\obj\Debug\Latihan_POS.cariSupplier.resources
+E:\Data\Kuliah\C# Lanjutan 2\clone\Senin_141110655_Willy-Laurents\Senin_141110655_WillyLaurents\Latihan_POS\obj\Debug\Latihan_POS.cariCostumer.resources
+E:\Data\Kuliah\C# Lanjutan 2\clone\Senin_141110655_Willy-Laurents\Senin_141110655_WillyLaurents\Latihan_POS\obj\Debug\Latihan_POS.editCostumer.resources
+E:\Data\Kuliah\C# Lanjutan 2\clone\Senin_141110655_Willy-Laurents\Senin_141110655_WillyLaurents\Latihan_POS\obj\Debug\Latihan_POS.editSupplier.resources
+E:\Data\Kuliah\C# Lanjutan 2\clone\Senin_141110655_Willy-Laurents\Senin_141110655_WillyLaurents\Latihan_POS\obj\Debug\Latihan_POS.Pembelian.resources
+E:\Data\Kuliah\C# Lanjutan 2\clone\Senin_141110655_Willy-Laurents\Senin_141110655_WillyLaurents\Latihan_POS\obj\Debug\Latihan_POS.Penjualan.resources
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\Point of Sale\bin\Debug\Latihan_POS.exe.config
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\Point of Sale\obj\Debug\Latihan_POS.exe
+E:\Kuliah\Semester V\Pemograman Framework .NET Lanjutan\Tugas\Visual Basic\Selasa_141110566_AdiputraSurya\Point of Sale\obj\Debug\Latihan_POS.pdb
